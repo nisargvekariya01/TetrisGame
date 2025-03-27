@@ -103,6 +103,11 @@ int remove_filled_lines(...); // Clears filled rows and shifts blocks
 
 ---
 
+## ScreenShot
+![TetrisGame](https://github.com/username/repo/assets/image.png)
+
+---
+
 ## 📊 Data Structure Analysis  
 1. #### Vector:  
 - ***Usage:*** Stores the game board (vector<vector<Block>>) and tetramino coordinates (vector<pair<int, int>>).  
