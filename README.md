@@ -103,8 +103,11 @@ int remove_filled_lines(...); // Clears filled rows and shifts blocks
 
 ---
 
+## Game Video
+<video width="630" height="300" src="https://user-images.githubusercontent.com/.../video.mp4" controls></video>
+
 ## ScreenShot
-![TetrisGame](TetrisGame.png)
+<img src="TetrisGame.png" width=70% height=70%>
 
 ---
 
