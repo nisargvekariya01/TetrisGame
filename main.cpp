@@ -47,7 +47,7 @@ int main() {
         cout << "   T    EEEE     T    RRRRR    I   SSSSS ";
         pos_tetris.Y += 1;
         SetConsoleCursorPosition(hConsole, pos_tetris);
-        cout << "   T    E        T    R  R     I      S  ";
+        cout << "   T    E        T    R  R     I       S  ";
         pos_tetris.Y += 1;
         SetConsoleCursorPosition(hConsole, pos_tetris);
         cout << "   T    EEEEE    T    R   R   III  SSSSS";
