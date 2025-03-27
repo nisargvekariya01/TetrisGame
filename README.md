@@ -104,7 +104,7 @@ int remove_filled_lines(...); // Clears filled rows and shifts blocks
 ---
 
 ## ScreenShot
-![TetrisGame](https://github.com/username/repo/assets/image.png)
+![TetrisGame](TetrisGame.png)
 
 ---
 
